@@ -5,4 +5,5 @@ Dependencies: Bootstrap, Chrome
 
 Authors: Sophie Brett, Lauren Burke, Nathan Oyeka, Paige Wong, Narmer Bazile
 
-Acknowledgments: 
+Acknowledgments: We used the following layout for help with our code: https://getbootstrap.com/docs/3.3/examples/jumbotron-narrow/
+Our image was found on this website: https://www.eatingwell.com/recipe/7917784/chopped-power-salad-with-chicken/ 
